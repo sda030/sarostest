@@ -1,0 +1,9 @@
+title: Nifudocx
+author: Stephan Daus
+version: 1.0.0
+quarto-required: ">=1.4.0"
+contributes:
+  formats:
+    docx:
+      reference-doc: nifudocx.docx
+
